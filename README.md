@@ -27,16 +27,7 @@ The goal of this challenge is simple:
 
 ---
 
-## 📂 Repository Structure
-
-fifty-days-of-java/
-│
-├── Day01_TipCalculator/
-├── Day02_JanKenPon/
-├── Day03_PasswordGenerator/
-├── Day04_HangmanOOP/
-└── ...
-
 ## 🤝 Contributing
 This is a personal learning challenge, but suggestions and improvements are welcome!
+
 
