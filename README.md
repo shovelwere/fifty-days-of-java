@@ -16,6 +16,7 @@ The goal of this challenge is simple:
 - **JanKenPon (Rock, Paper, Scissors)** – Randomization and conditional logic.
 - **Password Generator** – Arrays, Collections, loops, and randomness.
 - **OOP Hangman Game** – Object-Oriented Programming, encapsulation, and modular design.
+- **Caesar Cypher** - Object-Oriented Programming, Circular List with LinkedList, encapsulation, and modular design.
 - *(More projects coming soon!)*
 
 ---
@@ -29,5 +30,6 @@ The goal of this challenge is simple:
 
 ## 🤝 Contributing
 This is a personal learning challenge, but suggestions and improvements are welcome!
+
 
 
